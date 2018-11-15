@@ -6,9 +6,8 @@ I believe that finding the right job would be a much nicer and successful endeav
 
 I would like to share some of my experiences and thoughts about the subject, in the hope that someone finds this valuable. 
 
-# License <img src="images/cc-license.png" style="max-width:100%; vertical-align: text-bottom">
-
-The contents of this book are under [Creative Commons BY-SA License 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This means that: 
+# License 
+<img src="images/cc-license.png" align="left"> The contents of this book are under [Creative Commons BY-SA License 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This means that: 
 
 * You can use the material freely for commercial and non commercial work
 * You are allowed to make derivative work based on this as long as you publish it under the same or simlar license
@@ -19,4 +18,6 @@ Have a look at the [Full License Text](LICENSE.md).
 
 # Contribution to this book
 
-If you find mistakes or want to make additions to this book, you're very welcome! To suggest any change, please open an issue or a pull request. 
+If you find mistakes or want to make additions to this book, you're very welcome! To suggest any change, please open an issue or a pull request. This book is created using the [Gitbook Toolchain](https://toolchain.gitbook.com). 
+
+If you want to make changes to the book on your local computer and see them in action, TODO: describe how to run gitbook server
