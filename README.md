@@ -20,4 +20,9 @@ Have a look at the [Full License Text](LICENSE.md).
 
 If you find mistakes or want to make additions to this book, you're very welcome! To suggest any change, please open an issue or a pull request. This book is created using the [Gitbook Toolchain](https://toolchain.gitbook.com). 
 
-If you want to make changes to the book on your local computer and see them in action, TODO: describe how to run gitbook server
+That means all the contents of the book are authored as Markdown Documents (which are very simple to read and to edit) and can be found inside the _src/_ directory of this repository.  
+
+If you want to make changes to the book on your local computer and test see the book updated locally, you can generate the book as a live preview or a static HTML document to look at it: 
+
+* To generate a live preview (changes to the book are automatically applied when page is reloaded), run   _Linux:_ `sudo make serve` _MacOs:_ `make serve` and then browse to [localhost:4000](http://localhost:4000). You'll see the book locally. 
+* To generate a static HTML version version, run _Linux:_ `sudo make build` _MacOS:_ `make build`. The book will be created inside a subdirectory called _\_book/_  
