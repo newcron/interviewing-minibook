@@ -13,7 +13,7 @@ I would like to share some of my experiences and thoughts about the subject, in 
 The contents of this book are under [Creative Commons BY-SA License 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This means that: 
 
 * You can use the material freely for commercial and non commercial work
-* You are allowed to make derivative work based on this as long as you publish it under the same license
+* You are allowed to make derivative work based on this as long as you publish it under the same or simlar license
 * When you use this material, I must be credited as the author of this work
 
 Have a look at the [Full License Text](LICENSE.md). 
@@ -21,4 +21,4 @@ Have a look at the [Full License Text](LICENSE.md).
 
 # Contribution to this book
 
-This book 
+If you find mistakes or want to make additions to this book, you're very welcome! To suggest any change, please open an issue or a pull request. 
