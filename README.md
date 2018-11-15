@@ -24,5 +24,5 @@ That means all the contents of the book are authored as Markdown Documents (whic
 
 If you want to make changes to the book on your local computer and test see the book updated locally, you can generate the book as a live preview or a static HTML document to look at it: 
 
-* To generate a live preview (changes to the book are automatically applied when page is reloaded), run   _Linux:_ `sudo make serve` _MacOs:_ `make serve` and then browse to [localhost:4000](http://localhost:4000). You'll see the book locally. To stop the local server run _Linux:_ `sudo make stop` _MacOS:_ `make stop`
+* To generate a live preview (changes to the book are automatically applied when page is reloaded), run   _Linux:_ `sudo make run` _MacOs:_ `make run` and then browse to [localhost:4000](http://localhost:4000). You'll see the book locally. To stop the local server run _Linux:_ `sudo make stop` _MacOS:_ `make stop`
 * To generate a static HTML version version, run _Linux:_ `sudo make build` _MacOS:_ `make build`. The book will be created inside a subdirectory called _\_book/_  
