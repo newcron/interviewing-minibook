@@ -6,7 +6,7 @@ I believe that finding the right job would be a much nicer and successful endeav
 
 I would like to share some of my experiences and thoughts about the subject, in the hope that someone finds this valuable. 
 
-# License ![Logo of Creative Commons license](images/cc-license.png)
+# License <img src="/newcron/interviewing-minibook/raw/master/images/cc-license.png" style="max-width:100%; vertical-align: text-bottom">
 
 The contents of this book are under [Creative Commons BY-SA License 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This means that: 
 
