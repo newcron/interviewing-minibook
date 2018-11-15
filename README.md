@@ -8,7 +8,9 @@ I would like to share some of my experiences and thoughts about the subject, in 
 
 # License
 
-![Logo of Creative Commons license](images/cc-license.png)The contents of this book are under [Creative Commons BY-SA License 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This means that: 
+![Logo of Creative Commons license](images/cc-license.png)
+
+The contents of this book are under [Creative Commons BY-SA License 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This means that: 
 
 * You can use the material freely for commercial and non commercial work
 * You are allowed to make derivative work based on this as long as you publish it under the same license
