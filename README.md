@@ -16,8 +16,7 @@ The contents of this book are under [Creative Commons BY-SA License 4.0](https:/
 * You are allowed to make derivative work based on this as long as you publish it under the same license
 * When you use this material, I must be credited as the author of this work
 
-You can find the entire license text here: 
-
+Have a look at the [Full License Text](LICENSE.md). 
 
 
 # Contribution to this book
