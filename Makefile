@@ -10,7 +10,7 @@ stop:
 	@docker kill gitbook-server-interviewing-minibook
 
 deploy: build
-	cd _book && wput * ftp://matluc.de
+	cd _book && wput -u * ftp://matluc.de
 
 clean: 
 	rm -rf _book
