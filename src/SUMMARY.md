@@ -22,4 +22,6 @@
 ### Running the Interview
 
 * [Introduction](part4/introduction.md)
+* [Questioning](part4/questioning.md)
+* [Roundup](part4/roundup.md)
 
