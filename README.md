@@ -1,4 +1,4 @@
-# Interviewing Minibook
+# Making Better Jobinterviews Minibook
 
 I realized that there is not too much information about how to run job interviews well from the perspective of the interviewer. There is a lot of trainers and commercial training material present, none of which is available to the public. 
 
