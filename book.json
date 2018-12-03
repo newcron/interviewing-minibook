@@ -1,8 +1,0 @@
-{
-
-	"root": "src/", 
-	"title": "Better Job Interviews", 
-	"author": "Matthias Huttar",
-	"language": "en", 
-	"gitbook": ">=3.2.3"
-}

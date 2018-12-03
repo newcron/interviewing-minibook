@@ -1,3 +1,5 @@
 /_book
 **/*/*.swp
 /release.zip
+
+.DS_Store
