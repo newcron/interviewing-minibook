@@ -1,0 +1,122 @@
+
+@import url('https://fonts.googleapis.com/css?family=Spectral:800|Ubuntu:300,300i,400,400i');
+
+$blue: #4A5FAB;
+$green: #609F5C;
+$yellow: #E3C454;
+$purple: #A27CBA;
+$red: #B85031;
+
+$backgroundColor: white;
+$foregroundColor: black;
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  color: $foregroundColor;
+  background-color: $backgroundColor;
+}
+
+header {
+  background: $yellow;
+  color: $backgroundColor;
+  padding: 2rem 0 1rem 0;
+
+  h1, h2 {
+    max-width: 640px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-family: 'Spectral', serif;
+    font-weight: 800;
+  }
+
+  h2 {
+    font-weight: 300;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+  }
+}
+
+article.ebook {
+  max-width: 640px;
+  padding: 0 4em;
+  margin: 0 auto;
+  line-height: 1.6em;
+  font-weight: 300;
+  font-family: 'Ubuntu', sans-serif;
+
+  counter-reset: sectionCounter;
+
+
+  strong, b {
+   font-weight: 400;
+  }
+
+  a {
+    color: $green;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+      color: $green;
+    }
+    &:visited {
+      color: $purple;
+    }
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Spectral', serif;
+    font-weight: 800;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 4rem;
+    padding: 0.5em 0.25em;
+    background: $yellow;
+    color: $backgroundColor;
+    &:before {
+      display: block;
+      font-size: 1rem;
+      font-weight: 300;
+      font-family: 'Ubuntu', sans-serif;
+      content: "Part " counter(partCounter) ": ";
+    }
+    counter-increment: partCounter;
+    counter-reset: chapterCounter;
+  }
+
+  h2 {
+    font-size: 2rem;
+    margin: 4rem 0 0 0;
+    color: $blue;
+    counter-increment: chapterCounter;
+    &:before {
+      content: counter(chapterCounter) ". "
+    }
+  }
+
+  h3 {
+    font-size: 1.6rem;
+    margin: 2rem 0 0 0;
+    font-weight: 300;
+    font-family: 'Ubuntu', sans-serif;
+    color: $blue;
+  }
+
+  h4 {
+    font-size: 1rem;
+    margin: 2rem 0 0 0;
+    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  blockquote {
+    color: $blue;
+    font-style: italic;
+  }
+}
